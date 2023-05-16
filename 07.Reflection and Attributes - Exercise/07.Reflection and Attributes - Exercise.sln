@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P06.TrafficLights", "P06.TrafficLights\P06.TrafficLights.csproj", "{EAC67C6F-A418-4D2E-965D-48510C7FC30A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P08.CreateCustomClassAttribute", "P08.CreateCustomClassAttribute\P08.CreateCustomClassAttribute.csproj", "{E143F761-397B-4914-A0D2-68395589B3F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC67C6F-A418-4D2E-965D-48510C7FC30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC67C6F-A418-4D2E-965D-48510C7FC30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC67C6F-A418-4D2E-965D-48510C7FC30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC67C6F-A418-4D2E-965D-48510C7FC30A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E143F761-397B-4914-A0D2-68395589B3F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E143F761-397B-4914-A0D2-68395589B3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E143F761-397B-4914-A0D2-68395589B3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E143F761-397B-4914-A0D2-68395589B3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {438864CC-5AAB-4917-9576-A661A4A2ACAF}
+	EndGlobalSection
+EndGlobal
